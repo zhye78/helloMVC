@@ -1,6 +1,8 @@
 # helloMVC
 MVC패턴과 servlet을 사용한 로그인 폼
 
+DB 연동 없이 CustomerService에 Customer 정보를 HashMap을 사용하여 저장 해 두고 테스트하는 소스 코드입니다.
+
 ### 실행 화면
 
 - Home 페이지
