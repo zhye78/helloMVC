@@ -3,7 +3,7 @@
 
 - MVC 패턴과 코드 구조, 흐름을 이해하기 위한 기본적인 프로젝트
 
-- DB 연동 없이 CustomerService에 Customer 정보를 HashMap을 사용하여 테스트
+- DB 연동 없이 CustomerService에 Customer 정보를 HashMap을 사용하여 저장
 
 ## 실행 화면
 
