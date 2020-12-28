@@ -5,7 +5,7 @@
 
 - DB 연동 없이 CustomerService에 Customer 정보를 HashMap을 사용하여 테스트
 
-### 실행 화면
+## 실행 화면
 
 - Home 페이지
 
